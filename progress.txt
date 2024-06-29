@@ -1,0 +1,2 @@
+- Session 1 (26/06): Basic register programming (GPIO, clock config)
+- Session 2 (29/06): Basic communication protocols (UART, I2C, SPI)
